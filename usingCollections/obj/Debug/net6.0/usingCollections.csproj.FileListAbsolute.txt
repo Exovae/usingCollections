@@ -1,0 +1,15 @@
+C:\Users\ellio\source\repos\usingCollections\usingCollections\obj\Debug\net6.0\usingCollections.csproj.AssemblyReference.cache
+C:\Users\ellio\source\repos\usingCollections\usingCollections\obj\Debug\net6.0\usingCollections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ellio\source\repos\usingCollections\usingCollections\obj\Debug\net6.0\usingCollections.AssemblyInfoInputs.cache
+C:\Users\ellio\source\repos\usingCollections\usingCollections\obj\Debug\net6.0\usingCollections.AssemblyInfo.cs
+C:\Users\ellio\source\repos\usingCollections\usingCollections\obj\Debug\net6.0\usingCollections.csproj.CoreCompileInputs.cache
+C:\Users\ellio\source\repos\usingCollections\usingCollections\bin\Debug\net6.0\usingCollections.exe
+C:\Users\ellio\source\repos\usingCollections\usingCollections\bin\Debug\net6.0\usingCollections.deps.json
+C:\Users\ellio\source\repos\usingCollections\usingCollections\bin\Debug\net6.0\usingCollections.runtimeconfig.json
+C:\Users\ellio\source\repos\usingCollections\usingCollections\bin\Debug\net6.0\usingCollections.dll
+C:\Users\ellio\source\repos\usingCollections\usingCollections\bin\Debug\net6.0\usingCollections.pdb
+C:\Users\ellio\source\repos\usingCollections\usingCollections\obj\Debug\net6.0\usingCollections.dll
+C:\Users\ellio\source\repos\usingCollections\usingCollections\obj\Debug\net6.0\refint\usingCollections.dll
+C:\Users\ellio\source\repos\usingCollections\usingCollections\obj\Debug\net6.0\usingCollections.pdb
+C:\Users\ellio\source\repos\usingCollections\usingCollections\obj\Debug\net6.0\usingCollections.genruntimeconfig.cache
+C:\Users\ellio\source\repos\usingCollections\usingCollections\obj\Debug\net6.0\ref\usingCollections.dll
